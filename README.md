@@ -1,7 +1,5 @@
 ![](https://github.com/GitHubKaan/blume/blob/main/logo.gif)
 
-# BLUME
-
 ## ⬤ Info:
   1. Spigot 1.8
   2. Version 1.0
