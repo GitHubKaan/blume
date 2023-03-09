@@ -20,3 +20,9 @@
   - Warrior system
   - Tablist ranking system
   - Permissions system
+
+## Updates
+| Version | Description |
+| - | - |
+| __v0.1__ | Butcher-/ Minersystem, Economy-/Levelsystem |
+| __v0.2__ |  |
