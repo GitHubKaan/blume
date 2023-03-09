@@ -15,3 +15,6 @@
 | - | - |
 | __v0.1__ | Butcher-/ Minersystem, Economy-/Levelsystem |
 | __v0.2__ |  |
+
+## Credits
+Originally made by Kaan, continued by ItsHidro
