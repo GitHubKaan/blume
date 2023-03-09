@@ -1,3 +1,5 @@
+![](https://github.com/GitHubKaan/blume/blob/main/logo.gif)
+
 # BLUME
 
 ## ⬤ Info:
