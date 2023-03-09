@@ -3,16 +3,6 @@
 ## ⬤ Info:
   1. Spigot 1.8
   2. Version 1.0
-  
-## ⬤ Achievements:
-  - Miner system
-  - World-protection system
-  - Chat system
-  - Tablist system
-  - Scoreboard system
-  - Economy system
-  - Level system
-  - World-event system
 
 ## ⬤ Todo:
   - Farmer system
