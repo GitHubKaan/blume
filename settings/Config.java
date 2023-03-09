@@ -338,7 +338,7 @@ public class Config {
 	 * butcher item reward names
 	 */
 	public static String aRewardItemName = ChatColor.WHITE + "§rMeat";
-	public static Material aRewardItem = Material.PORK;
+	public static Material aRewardItem = Material.PORKCHOP;
 	public static String aRewardDesc = ChatColor.GRAY + "You can sell this item to earn money.";
 	
 	
