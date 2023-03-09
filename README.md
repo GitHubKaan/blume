@@ -1,4 +1,4 @@
-# BLUME
+![](https://github.com/GitHubKaan/blume/blob/main/logo.gif)
 
 ## ⬤ Info:
   1. Spigot 1.19
