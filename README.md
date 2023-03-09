@@ -15,7 +15,6 @@
   - World-event system
 
 ## ⬤ Todo:
-  - Butcher system
   - Farmer system
   - Warrior system
   - Tablist ranking system
