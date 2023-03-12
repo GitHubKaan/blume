@@ -1,10 +1,10 @@
 ![](https://github.com/GitHubKaan/blume/blob/main/logo.gif)
 
-## Info:
+## Info
   1. Spigot 1.8
   2. Version 1.0
 
-## Todo:
+## Todo
   - Farmer system
   - Warrior system
   - Tablist ranking system
